@@ -9,8 +9,13 @@ TODO:
 6. IMPLEMENT MORE ADVANCED ATTACK (see litterature)
 7. EVALUATE
 
+EXTRAS:
+ADD PROPER BLOCK TO END OF NETWORK
+
 
 DONE:
 1. CIFAR classification with <10% error
 2. Transfer Learning/pretraining
 3. FGSM attack
+
+
